@@ -38,3 +38,4 @@ MemoryCaptures/
 # .gitignore ファイル自体はGitで管理
 !.gitignore
 
+.vs/
