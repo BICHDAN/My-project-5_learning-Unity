@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bich-dan\\unity\\My project (5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\bich-dan\\unity\\my project (5)\\assets\\_unity essentials\\scripts\\provided scripts\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\provided scripts\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\SunRotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Unity Essentials\\Scripts\\SunRotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\DoorOpener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Unity Essentials\\Scripts\\DoorOpener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\bich-dan\\unity\\My project (5)\\assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\bich-dan\\unity\\my project (5)\\assets\\_unity essentials\\scripts\\provided scripts\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\provided scripts\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SunRotation.cs",
+              "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
+              "ToolTip": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
+              "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:35:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorOpener.cs",
+              "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\DoorOpener.cs",
+              "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\DoorOpener.cs",
+              "ToolTip": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\DoorOpener.cs",
+              "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\DoorOpener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:05:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayerController2D.cs",
               "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\Provided Scripts\\PlayerController2D.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\Provided Scripts\\PlayerController2D.cs",
               "ToolTip": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\Provided Scripts\\PlayerController2D.cs",
               "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\Provided Scripts\\PlayerController2D.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowEAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T23:38:16.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "collectible.cs",
               "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\collectible.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\collectible.cs",
@@ -43,7 +77,8 @@
               "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\collectible.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T23:36:31.244Z"
+              "WhenOpened": "2025-03-25T23:36:31.244Z",
+              "EditorCaption": ""
             }
           ]
         }
