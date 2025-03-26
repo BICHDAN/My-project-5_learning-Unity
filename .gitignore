@@ -39,3 +39,9 @@ MemoryCaptures/
 !.gitignore
 
 .vs/
+
+##############################
+# added by Kishie 2025-03-26 #
+##############################
+Assets/STYLY_Plugin/PluginUpdateNotifierSettings.asset
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
