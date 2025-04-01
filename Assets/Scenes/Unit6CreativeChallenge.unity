@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: cf81662bbe01f804ab06f283eb438f4b, type: 2}
+  m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -1582,8 +1582,8 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 15.81
-  m_Range: 8
+  m_Intensity: 16.03
+  m_Range: 7.6
   m_SpotAngle: 60
   m_InnerSpotAngle: 25
   m_CookieSize: 10
@@ -1641,7 +1641,7 @@ Transform:
   m_GameObject: {fileID: 564516507}
   serializedVersion: 2
   m_LocalRotation: {x: 0.46924195, y: -0.537983, z: 0.38079515, w: 0.58769155}
-  m_LocalPosition: {x: 3.696, y: 4.03, z: -1.545}
+  m_LocalPosition: {x: 4.521, y: 4.03, z: -1.016}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1996,7 +1996,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 20.11
-  m_Range: 8
+  m_Range: 9
   m_SpotAngle: 60
   m_InnerSpotAngle: 25
   m_CookieSize: 10
@@ -2184,7 +2184,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.4481132, g: 0.62409234, b: 1, a: 1}
-  m_Intensity: 8.8
+  m_Intensity: 9.5
   m_Range: 15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -4108,13 +4108,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1720912562}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0.047649756, y: -0.09726294, z: 0.018180985, w: 0.9939512}
   m_LocalPosition: {x: -2.17, y: 1.5, z: 6.56}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1195762840}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -5.232, y: -11.297, z: 2.614}
 --- !u!114 &1720912564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4227,7 +4227,7 @@ Transform:
   m_GameObject: {fileID: 1743153128}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 8.4, z: 4.55}
+  m_LocalPosition: {x: -0.42, y: 8.4, z: 4.55}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4269,7 +4269,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 0.7984492, b: 0.27843142, a: 1}
   m_Intensity: 10.62
-  m_Range: 8.12
+  m_Range: 17.45
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
