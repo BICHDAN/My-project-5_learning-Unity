@@ -17,7 +17,7 @@ RenderSettings:
   m_Fog: 0
   m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.01
+  m_FogDensity: 0.07
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 1, g: 0.33490568, b: 0.33490568, a: 1}
@@ -29,7 +29,7 @@ RenderSettings:
   m_SkyboxMaterial: {fileID: 2100000, guid: 30c4806122ee02443a0af0476d62ceb3, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
-  m_FlareFadeSpeed: 3
+  m_FlareFadeSpeed: 1.18
   m_HaloTexture: {fileID: 0}
   m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
   m_DefaultReflectionMode: 0
@@ -3299,7 +3299,7 @@ Transform:
   m_GameObject: {fileID: 710391983}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.626, y: 1.99, z: -8.06}
+  m_LocalPosition: {x: 8.69, y: 1.81, z: -8.06}
   m_LocalScale: {x: 1.4772261, y: 1.4772261, z: 1.4772261}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4888,7 +4888,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7e43b487890baf74796ab34547473a7d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5664,7 +5664,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.8079414, g: 1, b: 0.7971698, a: 1}
+  m_Color: {r: 0.9809719, g: 1, b: 0.3915094, a: 1}
   m_Intensity: 0.79
   m_Range: 10
   m_SpotAngle: 30
@@ -5723,13 +5723,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1424567948}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.13041489, y: 0.8366256, z: -0.27057272, w: -0.45808297}
+  m_LocalRotation: {x: 0.1451984, y: 0.8449583, z: -0.24330515, w: -0.45361385}
   m_LocalPosition: {x: 6.5638223, y: 11.571091, z: -23.61507}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1458407412}
-  m_LocalEulerAnglesHint: {x: 19.466, y: 242.599, z: 29.628}
+  m_LocalEulerAnglesHint: {x: 16.227, y: 240.687, z: 29.042}
 --- !u!114 &1424567951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6433,7 +6433,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8939499483144501276, guid: bc3f8280b6d69439cb3e7c45f5c84cd8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.1500015
+      value: 1.05
       objectReference: {fileID: 0}
     - target: {fileID: 8939499483144501276, guid: bc3f8280b6d69439cb3e7c45f5c84cd8, type: 3}
       propertyPath: m_LocalPosition.z
