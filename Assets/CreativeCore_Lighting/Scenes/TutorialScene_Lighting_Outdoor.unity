@@ -3865,7 +3865,7 @@ PrefabInstance:
     - target: {fileID: 569244801289593615, guid: 5fe307d3ed9ba3e409ee1ba4cb04c4f6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 3a431dbd0e30df943af0c17b18722248, type: 2}
+      objectReference: {fileID: 2100000, guid: 67e99961c2eff64478dad5143587624f, type: 2}
     - target: {fileID: 7391995282680130315, guid: 5fe307d3ed9ba3e409ee1ba4cb04c4f6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.4
@@ -5675,8 +5675,8 @@ Light:
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
+    m_Bias: 0
+    m_NormalBias: 0
     m_NearPlane: 0.1
     m_CullingMatrixOverride:
       e00: 1
@@ -5743,7 +5743,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Version: 3
-  m_UsePipelineSettings: 1
+  m_UsePipelineSettings: 0
   m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
   m_RenderingLayers: 1
