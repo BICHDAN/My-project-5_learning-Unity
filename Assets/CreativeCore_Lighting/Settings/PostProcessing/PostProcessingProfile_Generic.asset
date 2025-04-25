@@ -18,7 +18,7 @@ MonoBehaviour:
     m_Value: 2
   intensity:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.183
   response:
     m_OverrideState: 1
     m_Value: 0.8
@@ -80,7 +80,7 @@ MonoBehaviour:
     m_Value: 0.95
   intensity:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.5
   scatter:
     m_OverrideState: 1
     m_Value: 0.128
@@ -130,7 +130,7 @@ MonoBehaviour:
     m_Value: 0.377
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.275
+    m_Value: 0.336
   rounded:
     m_OverrideState: 1
     m_Value: 0
