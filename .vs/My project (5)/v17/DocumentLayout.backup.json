@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bich-dan\\unity\\My project (5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\bich-dan\\unity\\my project (5)\\assets\\customrenderpassfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\customrenderpassfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\bich-dan\\unity\\My project (5)\\assets\\_unity essentials\\scripts\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\bich-dan\\unity\\my project (5)\\assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\bich-dan\\unity\\My project (5)\\assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\bich-dan\\unity\\My project (5)\\assets\\_unity essentials\\scripts\\provided scripts\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\provided scripts\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\bich-dan\\unity\\My project (5)\\assets\\_unity essentials\\scripts\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomRenderPassFeature.cs",
-              "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\CustomRenderPassFeature.cs",
-              "RelativeDocumentMoniker": "Assets\\CustomRenderPassFeature.cs",
-              "ToolTip": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\CustomRenderPassFeature.cs",
-              "RelativeToolTip": "Assets\\CustomRenderPassFeature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:31:44.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SunRotation.cs",
               "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
@@ -51,7 +34,8 @@
               "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:35:35.164Z"
+              "WhenOpened": "2025-03-26T01:35:35.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,8 +59,7 @@
               "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\collectible.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T23:36:31.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T23:36:31.244Z"
             }
           ]
         }
