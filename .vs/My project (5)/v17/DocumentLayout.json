@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\bich-dan\\unity\\My project (5)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bich-dan\\unity\\My project (5)\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\PostProcessLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\PostProcessLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\bich-dan\\unity\\my project (5)\\assets\\creativecore_lighting\\scripts\\bouncingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\creativecore_lighting\\scripts\\bouncingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\bich-dan\\unity\\My project (5)\\assets\\_unity essentials\\scripts\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\sunrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PostProcessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\PostProcessLayer.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\PostProcessLayer.cs",
+              "ToolTip": "C:\\Users\\bich-dan\\unity\\My project (5)\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\PostProcessLayer.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\PostProcessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:47:50.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BouncingObject.cs",
+              "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\CreativeCore_Lighting\\Scripts\\BouncingObject.cs",
+              "RelativeDocumentMoniker": "Assets\\CreativeCore_Lighting\\Scripts\\BouncingObject.cs",
+              "ToolTip": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\CreativeCore_Lighting\\Scripts\\BouncingObject.cs",
+              "RelativeToolTip": "Assets\\CreativeCore_Lighting\\Scripts\\BouncingObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:23:04.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SunRotation.cs",
               "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
@@ -34,12 +68,11 @@
               "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\SunRotation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:35:35.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T01:35:35.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController2D.cs",
               "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\Provided Scripts\\PlayerController2D.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\Provided Scripts\\PlayerController2D.cs",
@@ -51,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "collectible.cs",
               "DocumentMoniker": "C:\\Users\\bich-dan\\unity\\My project (5)\\Assets\\_Unity Essentials\\Scripts\\collectible.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\collectible.cs",
